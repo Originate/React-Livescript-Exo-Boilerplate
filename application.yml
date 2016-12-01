@@ -1,0 +1,7 @@
+name: react-livescript-exosphere-boilerplate
+description: A basic boilerplate for creating quick exosphere applications
+version: 0.0.1
+
+services:
+  web-api:
+    location: ./web-api
